@@ -81,10 +81,11 @@ Give yourself a grade for each question. Explain why you gave yourself that grad
 
 ### 1. API Endpoints & MySQL
 
-- Grade:
-- Explanation:
+- Grade:2-3
+- Explanation: I say 2-3 because I didn't do the optional task with a student id fetch request. I also did the main task, but if I couldn't look at previous work there's no way I could do it within a reasonable time frame. Also, I'm not 100% sure of what some of the code means.
 
 ### 2. Frontend
 
-- Grade:
-- Explanation:
+- Grade: 2-3
+- Explanation: Same as above, I didn't do the option task and I spent AGES trying to work out why firstname, setFristName didn't work and it was because of a misplaced } - next time I'll find this mistake faster!
+  Also can't say I'm 100% sure of how everything is connected, forms, etc.
